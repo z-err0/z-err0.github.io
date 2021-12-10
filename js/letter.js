@@ -14,7 +14,7 @@ $("#open").click(function(){
 				"^200Anh biết là dạo này em đang bận dọn nhà, thi cử cuối năm, anh cũng bận công việc nữa, nên không có thời gian cho nhau như những ngày đầu<br>Với cả anh đọc trên mạng thấy người ta bảo là do hai đứa yêu nhau cũng một thời gian ý, cũng không còn nhiều cái để 888 với nhau như ngày đầu mới yêu nữa...nhưng mà anh ko muốn thế, anh muốn chúng mình cuốn lấy nhau cả đêm 888 như những ngày đầu cơ :(",
 				"^200Nên hôm nay, anh làm cái này, vừa muốn ôn lại kỷ niệm vui, buồn chúng ta trải qua cùng nhau trong ba tháng qua, vừa muốn...tỏ tình với em<br>Chúng ta yêu lại từ đầu để hâm nóng tình cảm tiếp nhó, anh muốn 888 đến sáng như những ngày đâu cơ :< <br>",
 				"^200Em có chấp nhận lời tỏ tình của anh không? Có muốn tiếp tục được anh chiều chuộng nữa không? Cho anh biết nhé...<br>Nghe nói ai đó chỉ thích cảm giác được anh chiều, được anh bảo vệ chứ không yêu anh =))<br>Ngốc ạ, đó là YÊU chứ gì nữa =))<br>Ps : Anh sửa lại tiêu đề rồi nhó, không phải valentine nữa, cũng không gọi thẳng tên em nữa =))...Phong cách tỏ tình vừa lãng mạn kiểu châu Á, vừa thực dụng kiểu châu Âu, hết lước chấm nuôn!!"],
-			typeSpeed: 90,
+			typeSpeed: 100,
 			backSpeed: 20
 		});
 		
